@@ -41,7 +41,7 @@ ELSE:
       OUTPUT "Not Legal"
 ```
 
-
+![WhatsApp Image 2024-09-07 at 10 28 17_e8eeebac](https://github.com/user-attachments/assets/c1436d31-c38f-453f-9906-5fbbef50e448)
 
 
       
