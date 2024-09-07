@@ -34,6 +34,7 @@ ELSEIF CodeNum == 1111111:
 ELSEIF CodeNum == 1111011:
   OUTPUT 9
 ```
+![WhatsApp Image 2024-09-07 at 16 28 45_32abedb0](https://github.com/user-attachments/assets/9bf126c1-6dfb-4053-a520-63285c9771be)
 
 
 
