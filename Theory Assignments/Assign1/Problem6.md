@@ -32,5 +32,6 @@ ElSEIF ride == "Sky Swing":
   ELSE:
     OUTPUT "Criteria not met"
 ```
+![WhatsApp Image 2024-09-07 at 16 28 45_50e52c97](https://github.com/user-attachments/assets/b9b847f6-25ce-4718-bf6e-f99519a6eedb)
 
 
