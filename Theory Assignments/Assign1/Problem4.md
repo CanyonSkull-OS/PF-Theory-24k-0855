@@ -1,6 +1,5 @@
 *Approach*:
-Take the necessary inputs and use a while loop with IF statements to add price of all items chosen.
-
+Take the necessary inputs and use a while loop with IF statements to add price of all items chosen, and display the change and total
 
 *IPO*:
 
@@ -31,4 +30,7 @@ INPUT Money, Oprice, Aprice, Gprice, Tprice, cart
 OUTPUT "Your payment is ", Total
 Change = Money - Total
 OUTPUT "Your change is ", Change
+```
+![WhatsApp Image 2024-09-07 at 12 13 04_48ec9438](https://github.com/user-attachments/assets/9892db62-33a7-42a0-99e8-91452ae87b3f)
+
 ```
