@@ -23,3 +23,4 @@ IF num1 == 1:
 ELSE:
   OUTPUT "Numbers are not Co-Prime"
   ```
+![WhatsApp Image 2024-09-08 at 09 32 53_a91627f2](https://github.com/user-attachments/assets/704ee98a-8b4b-4b90-9443-b9a5deb1719d)
