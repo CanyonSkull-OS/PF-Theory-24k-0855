@@ -24,5 +24,6 @@ while i < Length(num):
     fixednum = fixednum + num[i]
     i = i + 1
 OUTPUT fixednum
-```  
-    
+```
+![WhatsApp Image 2024-09-08 at 09 33 08_ddc79691](https://github.com/user-attachments/assets/f06dc5a8-56c7-417e-8dd9-bd15b2871dcc)
+
