@@ -126,5 +126,3 @@ int findWorstPerformingEmployee(int** ratings, int numEmployees, int numPeriods)
     }
     return index+1;
 }
-
-
