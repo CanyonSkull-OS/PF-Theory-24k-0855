@@ -139,6 +139,7 @@ struct reg_hubs create_regional_hub() {
     printf("Enter resource distribution: ");
     scanf("%d", &hub.resource_distr);
     printf("Enter emergency response plan: ");
+    getchar();
     fgets(hub.emrgncy_rspns_plan, sizeof(hub.emrgncy_rspns_plan), stdin);
 
     return hub;
